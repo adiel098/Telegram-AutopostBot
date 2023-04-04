@@ -1,0 +1,186 @@
+{
+    "button": {
+        "get_current_setting": {
+            "en": "Get Current Settings",
+            "he": "קבל הגדרות נוכחיות"
+        },
+        "remove_group": {
+            "en": "Remove Group",
+            "he": "הסר קבוצה"
+        },
+        "back": {
+            "en": "Back",
+            "he": "חזור"
+        },
+        "add_msg_json": {
+            "en": "Add Message JSON",
+            "he": "הוסף הודעה JSON"
+        },
+        "add_message": {
+            "en": "Add Message",
+            "he": "הוסף הודעה"
+        },
+        "yes": {
+            "en": "Yes",
+            "he": "כן"  
+        },
+        "no": {
+            "en": "No",
+            "he": "לא"
+        },
+        "delete_message": {
+            "en": "Delete Message",
+            "he": "למחוק הודעה"
+        },
+        "delete_all": {
+            "en": "Delete all",
+            "he": "מחק הכל"
+        },
+        "change_interval": {
+            "en": "Change Interval",
+            "he": "מרווח שינוי"
+        },
+        "run_24x7": {
+            "en": "Run 24x7",
+            "he": "רץ 24x7"
+        },
+        "turn_on": {
+            "en": "Turn on",
+            "he": "להדליק"
+        },
+        "turn_off": {
+            "en": "Turn off",
+            "he": "לכבות"
+        }
+    },
+    "response": {
+        "welcome": {
+            "en": "Welcome to main menu",
+            "he": "ברוכים הבאים לתפריט הראשי"
+        },
+        "no_bot_access": {
+            "en": "You don't have permission to access this bot",
+            "he": "אין לך הרשאה לגשת לבוט זה."
+        },
+        "current_setting": {
+            "en": "👥 Added Groups: **[ {} ]**\n\n🔁 Run 24x7: **{}**\n\n⏱ Interval: **{}** sec",
+            "he": "👥 נוספה קבוצה: **[ {} ]**\n\n🔁 רץ 24x7: **{}**\n\n⏱ הַפסָקָה: **{}** sec"
+        },
+        "groups": {
+            "en": "GROUPS",
+            "he": "קבוצות"
+        },
+        "enter_group_number": {
+            "en": "Enter the group number",
+            "he": "הזן את מספר הקבוצה"
+        },
+        "no_groups_to_remove": {
+            "en": "There is no groups to remove",
+            "he": "אין קבוצות להסרה"
+        },
+        "incorrect_group_number": {
+            "en": "Incorrect group number",
+            "he": "מספר קבוצה שגוי"
+        },
+        "group_removed": {
+            "en": "Group removing Successful",
+            "he": "הסרת הקבוצה הצליחה"
+        },
+        "upload_json": {
+            "en": "Please upload the message JSON",
+            "he": "נא להעלות את ההודעה JSON"
+        },
+        "messages_added": {
+            "en": "Messages added to the database",
+            "he": "הודעות שנוספו למסד הנתונים"
+        },
+        "json_format_error": {
+            "en": "JSON file format error",
+            "he": "שגיאה בפורמט קובץ JSON"
+        },
+        "enter_message_text": {
+            "en": "Please enter message text:",
+            "he": "נא להזין את טקסט ההודעה:"
+        },
+        "upload_message_media": {
+            "en": "Please upload message media",
+            "he": "נא להעלות מדיה להודעה"
+        },
+        "add_button_name": {
+            "en": "Add button name:",
+            "he": "הוסף שם לחצן:"
+        },
+        "add_button_link": {
+            "en": "Add button link:",
+            "he": "הוסף קישור לחצן:"
+        },
+        "do_you_wanna_add_button": {
+            "en": "Do you wanna add button?",
+            "he": "האם אתה רוצה להוסיף כפתור?"
+        },
+        "add_another_button": {
+            "en": "Do you wanna add another button?",
+            "he": "האם אתה רוצה להוסיף עוד כפתור?"
+        },
+        "message_added": {
+            "en": "Message added",
+            "he": "נוספה הודעה"
+        },
+        "enter_msg_id": {
+            "en": "Enter message ID to delete",
+            "he": "הזן את מזהה ההודעה כדי למחוק"
+        },
+        "message_deleted": {
+            "en": "Message deleted from the database",
+            "he": "ההודעה נמחקה ממסד הנתונים"
+        },
+        "incorrect_msg_id": {
+            "en": "Incorrect message ID",
+            "he": "מזהה הודעה שגוי"
+        },
+        "set_interval": {
+            "en": "You can increase or decrease time in seconds",
+            "he": "אתה יכול להגדיל או להקטין את הזמן בשניות"
+        },
+        "button_input_error": {
+            "en": "Please select a correct number button",
+            "he": "אנא בחר כפתור מספר נכון"
+        },
+        "message_send_time_set": {
+            "en": "Interval updated to {}",
+            "he": "מרווח שליחת ההודעה עודכן ל-{}"
+        },
+        "select_option": {
+            "en": "Please select an option",
+            "he": "בבקשה בחר אפשרות"
+        },
+        "pls_add_message": {
+            "en": "Please add messages before starting",
+            "he": "אנא הוסף הודעות לפני שתתחיל"
+        },
+        "pls_add_groups": {
+            "en": "Please add groups before starting",
+            "he": "נא להוסיף קבוצות לפני שמתחילים"
+        },
+        "message_send_time_updated_24x7": {
+            "en": "Message sending time period updated to 24x7",
+            "he": "תקופת זמן שליחת ההודעה עודכנה ל-24x7"
+        },
+        "message_sending_turned_off": {
+            "en": "Message sending 24x7 turned off",
+            "he": "שליחת הודעה 24x7 כבויה"
+        },
+        "max_group_count_exceeded": {
+            "en": "The maximum group count the bot can handle has exceeded",
+            "he": "חרגה ממספר הקבוצות המקסימלי שהבוט יכול להתמודד"
+        },
+        "private_group_err": {
+            "en": "This bot cannot be used on private groups",
+            "he": "לא ניתן להשתמש בבוט זה בקבוצות פרטיות"
+        },
+        "bot_added_msg": {
+            "en": "Thank you for adding me to your group! Don't forget to make me an Admin of the Group, or I won't be able to send messages",
+            "he": "תודה שצירפת אותי לקבוצה שלך! אל תשכח להפוך אותי למנהל של הקבוצה, אחרת לא אוכל לשלוח הודעות"
+        }
+    }
+}

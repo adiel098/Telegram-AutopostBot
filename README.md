@@ -27,4 +27,4 @@ Introducing a versatile Telegram bot designed for effortless automatic message p
 Ensure compliance with Telegram's terms of service and group guidelines when using this bot.
 
 ## 🖼️ Screenshot
-![Screenshot](path/to/settingpic.png)
+![Screenshot](settingpic.png)
